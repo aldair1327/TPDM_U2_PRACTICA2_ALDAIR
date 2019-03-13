@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TPDM_U2_PRACTICA2_ALDAIR</string>
+    <string-array name="Tipos">
+        <item>Auto</item>
+        <item>Casa</item>
+        <item>Medico</item>
+    </string-array>
+</resources>
